@@ -12,3 +12,5 @@ perimeter = 2 * (a + b)
 print("Площадь прямоугольника:", square)
 print("Периметр прямоугольника:", perimeter)
 
+# https://github.com/DrowASD/St4p1
+
